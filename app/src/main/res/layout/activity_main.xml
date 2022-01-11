@@ -13,7 +13,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:fontFamily="sans-serif-light"
-        android:text="Happy Birthday Ciccio"
+        android:text="Happy Birthday Cicco"
         android:textColor="@android:color/black"
         android:textSize="36sp"
         android:typeface="normal"
